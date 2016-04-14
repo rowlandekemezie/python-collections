@@ -1,0 +1,2 @@
+This a test to check for profane words in a document consuming google api service to return either tru or false.
+This is shit man

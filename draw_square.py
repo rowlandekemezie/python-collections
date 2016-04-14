@@ -1,4 +1,4 @@
-from webbrowser import open
+ from webbrowser import open
 from time import sleep
 import turtle
 import os
